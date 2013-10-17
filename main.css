@@ -1,11 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville);
+
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Libre Baskerville', serif;
     font-size: 14px;
-    background: url('bg2blur.JPG') no-repeat center center fixed;
-    -webkit-background-size: cover;
-       -moz-background-size: cover;
-         -o-background-size: cover;
-            background-size: cover;
+    background-color: #8493CA;
     padding: 0;
     margin: 0;
 }
