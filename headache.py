@@ -1,6 +1,6 @@
 """
 
-python plaintext obfuscator
+python -> CSS monospace font obfuscator
 
 by n.bush
 
