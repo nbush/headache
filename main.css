@@ -1,9 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Libre+Baskerville);
 
 body {
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 14px;
-    background-color: #8493CA;
+    background-color: #fff;
     padding: 0;
     margin: 0;
 }
