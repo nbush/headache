@@ -1,7 +1,7 @@
 headache
 ========
 
-CSS monospace HTML text obfuscator
+CSS HTML text obfuscator
 
 go from this:
 
