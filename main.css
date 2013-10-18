@@ -39,6 +39,7 @@ div.page div.sidebar {
     width: 230px;
     height: 100%;
     float: left;
+    color: #777;
 }
 
 div.page div.main {
